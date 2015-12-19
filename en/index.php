@@ -11,10 +11,13 @@
 		<meta name="description" content="HELP for Admission Test 2015-16, Noakhali Science and Technology University"/>
 		<meta name="author" content=""/>
 		
-		<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+		<!--<link href="../css/bootstrap.min.css" rel="stylesheet"/>-->
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" type="text/css" />
 		<link href="../css/theme.css" rel="stylesheet"/>
 		<link href="../css/main.css" rel="stylesheet"/>
 		<link href="../css/custom.css" rel="stylesheet"/>
+		
 	</head>
 	
 	<body>
